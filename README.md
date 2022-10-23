@@ -1,3 +1,11 @@
-# World-of-Culture
+# World of Culture (for Fabric)
 
-# Author: IPOleksenko and rvbsm
+### Contributors
+
+- [IPOleksenko](https://github.com/IPOleksenko)
+- [rvbsm](https://github.com/rvbsm)
+
+---
+### License
+
+Mod is licensed under MIT. More info [here](https://github.com/IPOleksenko/World-of-Culture/blob/main/LICENSE).
