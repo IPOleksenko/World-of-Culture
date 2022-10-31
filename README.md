@@ -8,4 +8,4 @@
 ---
 ### License
 
-Mod is licensed under MIT. More info [here](https://github.com/IPOleksenko/World-of-Culture/blob/main/LICENSE).
+Mod is licensed under CC0 1.0 Universal. More info [here](https://github.com/IPOleksenko/World-of-Culture/blob/main/LICENSE).
